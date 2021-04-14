@@ -1,6 +1,6 @@
 {
-  "name": "mod1",
-  "version": "0.0.1",
+  "name": "mod2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "shelljs": "^0.8.4"
+    "lodash": "^4.17.21"
   }
 }
